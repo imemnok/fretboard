@@ -1,0 +1,109 @@
+
+
+.App {
+  text-align: center;
+}
+
+/* .guitar-neck {
+	position: relative;
+	margin-top: 40px;
+	left: 50%;
+	margin-left: -450px;
+	width: 960px;
+	height: 250px;
+	background: #755628;
+	box-shadow: inset -1px 0px 11px 0px rgba(0,0,0,0.75);
+} */
+/* div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  margin: auto;
+} */
+
+/* .fretboard {
+	position: relative;
+	left: 47%;
+	margin-left: -450px;
+	width: 960px;
+	height: 250px;
+  border: 1px solid black; 
+} */
+
+td {
+  background-color: whitesmoke;
+  color: black;
+  border: 1px solid black;
+  width: 100px;
+  height: 35px;
+}
+
+.fretA {
+  border: 2px solid blue;
+}
+
+tr {
+  outline: thin solid;
+}
+
+.root{
+  border: 1px solid rgb(7, 61, 5);
+  background: #A0DDFF;
+  width: 100px;
+  height: 10px;
+}
+
+.third{
+  background: #758ECD;
+}
+.fifth{
+  background: #C1CEFE;
+}
+.seventh{
+  background: #7189FF;
+}
+
+.strings{
+  background-color: #624CAB;
+  border-radius: 8p;
+  border: 2px solid white;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16p;
+}
+
+.modes{
+  background-color: #624CAB;
+  border-radius: 8p;
+  border: 2px solid white;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16p;
+}
+
+.keys{
+  background-color: #624CAB;
+  border-radius: 8p;
+  border: 2px solid white;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16p;
+}
+/* 
+.center-div{
+  margin: 0 auto;
+  width: 100px;
+} */
